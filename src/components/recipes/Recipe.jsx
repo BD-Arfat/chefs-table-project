@@ -2,7 +2,7 @@ import React from "react";
 import { FaBeer, FaFire } from "react-icons/fa";
 import { MdAccessTime } from "react-icons/md";
 
-const Recipe = ({ recipe }) => {
+const Recipe = ({ recipe, handleBookRecipes }) => {
   const {
     recipe_image,
     recipe_name,
@@ -47,7 +47,10 @@ const Recipe = ({ recipe }) => {
             </div>
           </div>
           <div class="card-actions">
-            <button className="btn bg-emerald-500 rounded-3xl text-white py-3 px-16 mb-4">
+            <button
+              onClick={() => handleBookRecipes(recipe)}
+              className="btn bg-emerald-500 rounded-3xl text-white py-3 px-16 mb-4"
+            >
               Buy Now
             </button>
           </div>
