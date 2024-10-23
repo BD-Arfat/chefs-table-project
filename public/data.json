@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7L2SDgQGqDS9SlrWM6rHl1qTx1mrUUBdQBNR7GbR07pDuwwrxhK78Jk&s",
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken with Basil",
+    "short_description": "A delicious grilled chicken recipe with fresh basil and mushrooms.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calorie"
+  },
+  {
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixhGfOPIWcAiJVphWaQGx5V1qtZ3ToIWCnCGGylBTGwyJ-Hz-cPWmIyY&s",
+    "recipe_id": 2,
+    "recipe_name": "Spicy Beef Stir-fry",
+    "short_description": "A quick and spicy beef stir-fry with vegetables.",
+    "ingredients": [
+      "400 g beef",
+      "2 cloves garlic",
+      "100 g bell pepper",
+      "50 g green onion",
+      "100 ml chili sauce"
+    ],
+    "preparing_time": "25 min",
+    "calories": "400 calorie"
+  },
+  {
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0gWyZ1UeRcz7RXMHXqkLShzZ3EMyzT4J2dZ39bd1d1rdMqs8NGjuX1g&s",
+    "recipe_id": 3,
+    "recipe_name": "Vegetable Curry",
+    "short_description": "A flavorful and healthy vegetable curry with a mix of spices.",
+    "ingredients": [
+      "200 g carrot",
+      "150 g potato",
+      "100 g spinach",
+      "1 onion",
+      "50 ml coconut milk",
+      "2 tsp curry powder"
+    ],
+    "preparing_time": "40 min",
+    "calories": "280 calorie"
+  },
+  {
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_OD9oK2_cl4F9ueaWebQ64dpZ5oycaR5GY7jDbs9YpzqwnBDSsAf49To&s",
+    "recipe_id": 4,
+    "recipe_name": "Shrimp Fried Rice",
+    "short_description": "A simple and tasty shrimp fried rice with a blend of veggies.",
+    "ingredients": [
+      "300 g shrimp",
+      "200 g rice",
+      "100 g peas",
+      "2 eggs",
+      "50 ml soy sauce"
+    ],
+    "preparing_time": "20 min",
+    "calories": "350 calorie"
+  },
+  {
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lvO9urWWZ7UYofphEPS8sb78up8sxPs0RavHNejwv6EVMCm7a7ILl7c&s",
+    "recipe_id": 5,
+    "recipe_name": "Pasta Carbonara",
+    "short_description": "A classic creamy pasta carbonara with bacon and parmesan.",
+    "ingredients": [
+      "200 g pasta",
+      "100 g bacon",
+      "2 eggs",
+      "50 g parmesan cheese",
+      "100 ml cream"
+    ],
+    "preparing_time": "30 min",
+    "calories": "500 calorie"
+  },
+  {
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBSzlhFk6A1IxS7e9uLlYtYkmMjZLfSwhMeJsxTNrcHYNMK2_IFngJxo&s",
+    "recipe_id": 6,
+    "recipe_name": "Tomato Basil Soup",
+    "short_description": "A warm and comforting tomato basil soup.",
+    "ingredients": [
+      "500 g tomato",
+      "200 ml vegetable broth",
+      "50 g basil leaves",
+      "1 onion",
+      "2 cloves garlic"
+    ],
+    "preparing_time": "35 min",
+    "calories": "150 calorie"
+  }
+]
