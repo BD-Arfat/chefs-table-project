@@ -10,8 +10,8 @@
       "200 g basil leaf",
       "400 g mushroom"
     ],
-    "preparing_time": "30 min",
-    "calories": "320 calorie"
+    "preparing_time": "30",
+    "calories": "320"
   },
   {
     "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixhGfOPIWcAiJVphWaQGx5V1qtZ3ToIWCnCGGylBTGwyJ-Hz-cPWmIyY&s",
@@ -25,8 +25,8 @@
       "50 g green onion",
       "100 ml chili sauce"
     ],
-    "preparing_time": "25 min",
-    "calories": "400 calorie"
+    "preparing_time": "25",
+    "calories": "400"
   },
   {
     "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0gWyZ1UeRcz7RXMHXqkLShzZ3EMyzT4J2dZ39bd1d1rdMqs8NGjuX1g&s",
@@ -41,8 +41,8 @@
       "50 ml coconut milk",
       "2 tsp curry powder"
     ],
-    "preparing_time": "40 min",
-    "calories": "280 calorie"
+    "preparing_time": "40",
+    "calories": "280"
   },
   {
     "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_OD9oK2_cl4F9ueaWebQ64dpZ5oycaR5GY7jDbs9YpzqwnBDSsAf49To&s",
@@ -56,8 +56,8 @@
       "2 eggs",
       "50 ml soy sauce"
     ],
-    "preparing_time": "20 min",
-    "calories": "350 calorie"
+    "preparing_time": "20",
+    "calories": "350"
   },
   {
     "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lvO9urWWZ7UYofphEPS8sb78up8sxPs0RavHNejwv6EVMCm7a7ILl7c&s",
@@ -71,8 +71,8 @@
       "50 g parmesan cheese",
       "100 ml cream"
     ],
-    "preparing_time": "30 min",
-    "calories": "500 calorie"
+    "preparing_time": "30",
+    "calories": "500"
   },
   {
     "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBSzlhFk6A1IxS7e9uLlYtYkmMjZLfSwhMeJsxTNrcHYNMK2_IFngJxo&s",
@@ -86,7 +86,7 @@
       "1 onion",
       "2 cloves garlic"
     ],
-    "preparing_time": "35 min",
-    "calories": "150 calorie"
+    "preparing_time": "35",
+    "calories": "150"
   }
 ]
